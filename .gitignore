@@ -1,0 +1,14 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# Pacchetti e log
+*.zip
+node_modules/
+*.log

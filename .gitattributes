@@ -1,0 +1,10 @@
+# Fine riga LF su Mac e Windows, così i diff non cambiano tutte le righe
+* text=auto eol=lf
+
+# Immagini e font: file binari, mai convertiti
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.ico   binary
+*.woff2 binary
